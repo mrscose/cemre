@@ -4,6 +4,6 @@ public class test1 {
         System.out.println("mj first deneme");
         System.out.println("first practice");
         System.out.println("yineyeniden");
-
+        System.out.println("tekrar");
     }
 }
